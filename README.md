@@ -100,11 +100,11 @@
 
 ## 전체 ERD
 
-<img src="https://raw.githubusercontent.com/pknu05/Final-Project/main/src/main/resources/static/portfolio/%EC%A0%84%EC%B2%B4erd.png?token=GHSAT0AAAAAACEYTPRILPDDQETX6664Q2AOZFGMW4Q" width="100%"/>
+<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/전체erd.png?raw=true" width="100%"/>
 
 ## 클래스 등록
 
-<img src="https://github.com/pknu05/Final-Project/assets/123917210/e6a68e07-16cc-470d-99e6-c9eddb188595" />
+<img src="https://raw.githubusercontent.com/pknu05/Final-Project/main/src/main/resources/static/portfolio/클래스 등록.png?token=GHSAT0AAAAAACEYT6QNJGX6AWUI2GFMCN5YZFGNNZQ" />
 
 ## 일정 등록 및 신청
 
