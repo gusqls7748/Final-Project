@@ -100,7 +100,7 @@
 
 ## 전체 ERD
 
-<img src="https://github.com/pknu05/Final-Project/assets/44632544/8a346ba7-67cc-4300-bc2d-8a1e0f100532" width="100%"/>
+<img src="https://raw.githubusercontent.com/pknu05/Final-Project/main/src/main/resources/static/portfolio/%EC%A0%84%EC%B2%B4erd.png?token=GHSAT0AAAAAACEYTPRILPDDQETX6664Q2AOZFGMW4Q" width="100%"/>
 
 ## 클래스 등록
 
