@@ -300,7 +300,7 @@
 
 # 8. <a name="fun8">커뮤니티(게시글 및 댓글 작성)
 
-<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/커뮤니티(게시글 및 댓글 작성).gif?raw=true" width="100%"/><br/><br/>
+<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/8. 커뮤니티(게시글 및 댓글 작성).gif?raw=true" width="100%"/><br/><br/>
 
 - 글에 목적에 따른 글 분류를 선택하여 글작성 + 수정,삭제 기능 구현
 - Pagination을 이용하여 전체 커뮤니티 글 조회 
