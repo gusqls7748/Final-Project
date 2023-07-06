@@ -311,13 +311,13 @@
 
 ## &nbsp;&nbsp;9-1. 클래스 신청 알림(판매자)
 
-<img src="https://github.com/pknu05/Final-Project/assets/44632544/57a83c2c-23b3-4a3d-9978-1fd6376c6d38"> <br/><br/>
+<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/9-1. 클래스 신청 알림(판매자).gif?raw=true" width="100%"/><br/><br/>
 - 클래스 신청 알림을 선택하여 신청관리 페이지로 이동
 <br/>
 
 ## &nbsp;&nbsp;9-2. 클래스 문의 알림(판매자)
 
-<img src="https://github.com/pknu05/Final-Project/assets/44632544/57245fa9-ed37-42e6-b7d0-5e4782792acb"> <br/><br/>
+<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/9-2. 클래스 문의 알림(판매자).gif?raw=true" width="100%"/><br/><br/>
 - 내 클래스 문의 내역 확인 및 처리 상태 확인
 - 답변 대기 상태 시, 문의 답변 가능
 - 문의 답변(Modal)
@@ -325,7 +325,8 @@
 
 ## &nbsp;&nbsp;9-3. 클래스 문의 답변완료 알림(구매자)
 
-<img src="https://github.com/pknu05/Final-Project/assets/44632544/4b40601e-1057-4839-b2b9-cdc29131c7b5"> <br/><br/>
+<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/9-3. 클래스 문의 답변완료 알림(구매자).gif?raw=true" width="100%"/><br/><br/>
+
 - 클래스 문의 알림을 선택하여 마이페이지의 문의내역 페이지로 이동
 - 문의 제목 선택하여 답변 내용 확인(Modal)
 <br/>
