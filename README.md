@@ -44,7 +44,7 @@
 
 # :books: <a name="outline">개요</a>
 <br/>
-<img src="https://github.com/pknu05/Final-Project/blob/main/src/main/resources/static/portfolio/개요.jpg?raw=true"/>
+<img src="https://github.com/gusqls7748/Final-Project/blob/main/src/main/resources/static/portfolio/개요.jpg?raw=true"/>
 
 > **프로젝트** : 원데이클래스 매칭 플랫폼
 >
